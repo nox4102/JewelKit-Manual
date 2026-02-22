@@ -19,6 +19,13 @@ Manufacturing & Analysis
 JK_CreateMesh: Converts the design into a high-density mesh optimized for 3D printing.
 JK_Weight: Opens the material density calculator to estimate the final weight in grams.
 
+* Specializing in 3D Jewelry Design and Digital Tool Development
+* [GitHub](https://github.com/nox4102)
+
+## Copyright & License
+Copyright © 2026 Chris Bahng. All rights reserved.
+This software and its documentation are the intellectual property of Chris Bahng. Unauthorized copying, modification, or distribution of this software via any medium is strictly prohibited without explicit permission.
+
 <h2 align="center">Video Tutorials</h2>
 <table border="0">
   <tr>
@@ -46,11 +53,4 @@ JK_Weight: Opens the material density calculator to estimate the final weight in
   </tr>
 </table>
 
-* Specializing in 3D Jewelry Design and Digital Tool Development
-* [GitHub](https://github.com/nox4102)
 
-## Copyright & License
-
-Copyright © 2026 Chris Bahng. All rights reserved.
-
-This software and its documentation are the intellectual property of Mu-to Bahng. Unauthorized copying, modification, or distribution of this software via any medium is strictly prohibited without explicit permission.
