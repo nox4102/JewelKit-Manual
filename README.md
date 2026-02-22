@@ -5,6 +5,20 @@ Signet Builder: Offers parametric design workflows for Oval, Rectangle, and Cres
 3D Printing Optimized Mesh: Instantly converts 3D geometry into high-quality meshes suitable for additive manufacturing.
 Material Analysis: Estimates the final weight of the piece in grams (g) based on a database of preset jewelry materials.
 Quality Checklist: An integrated tool for users to self-evaluate the printability and wearability of their designs.
+
+Shank & Rail Tools
+JK_CreateRail: Generates the foundational ring rail based on international sizing standards.
+JK_CreateProfile: Places the cross-sectional profile curves onto the rail's quadrants.
+JK_CreateShank: Sweeps the profiles along the rail to generate the 3D shank geometry.
+Signet Ring Builder
+JK_SignetGuides: Instantly creates the parametric guide curves for Oval, Rectangle, or Crest shapes.
+JK_SignetSolid: Builds the 3D solid body of the signet ring from the active guides.
+JK_CreateCutter: Generates the cylindrical cutting object for the finger hole.
+JK_CutHole: Executes the final Boolean operation to finish the ring.
+Manufacturing & Analysis
+JK_CreateMesh: Converts the design into a high-density mesh optimized for 3D printing.
+JK_Weight: Opens the material density calculator to estimate the final weight in grams.
+
 <h2 align="center">Video Tutorials</h2>
 <table border="0">
   <tr>
