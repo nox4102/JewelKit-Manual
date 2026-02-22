@@ -45,3 +45,12 @@ JK_Weight: Opens the material density calculator to estimate the final weight in
     </td>
   </tr>
 </table>
+
+* Specializing in 3D Jewelry Design and Digital Tool Development
+* [GitHub](https://github.com/nox4102)
+
+## Copyright & License
+
+Copyright © 2026 Chris Bahng. All rights reserved.
+
+This software and its documentation are the intellectual property of Mu-to Bahng. Unauthorized copying, modification, or distribution of this software via any medium is strictly prohibited without explicit permission.
