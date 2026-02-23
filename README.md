@@ -20,7 +20,7 @@ JK_CreateMesh: Converts the design into a high-density mesh optimized for 3D pri
 JK_Weight: Opens the material density calculator to estimate the final weight in grams.
 
 * Specializing in 3D Jewelry Design and Digital Tool Development
-* [GitHub](https://github.com/nox4102)
+* snapmate.contact@gmail.com
 
 ## Copyright & License
 Copyright © 2026 Chris Bahng. All rights reserved.
