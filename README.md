@@ -2,7 +2,7 @@
 JewelKit: An Educational Plug-in for Rhino CAD. JewelKit is an educational plug-in for Rhino CAD, designed specifically for students learning CAD for the first time and for their educators.
 Smart Shank Tools: Automatically snaps profile curves to the ring rail's top and bottom quadrants for high-precision modeling.
 Signet Builder: Offers parametric design workflows for Oval, Rectangle, and Crest signet shapes.
-3D Printing Optimized Mesh: Instantly converts 3D geometry into high-quality meshes suitable for additive manufacturing.
+3D Printing Optimized Mesh: Instantly converts 3D geometry into meshes suitable for additive manufacturing.
 Material Analysis: Estimates the final weight of the piece in grams (g) based on a database of preset jewelry materials.
 Quality Checklist: An integrated tool for users to self-evaluate the printability and wearability of their designs.
 
